@@ -25,6 +25,8 @@
      * Doctor
      * Patient
      * PatientAuthenticationToken
+  5. Database Used
+     * MySQL database
 
 * # Project Summary
    In this project we created Doctor-Appointment basic design project and used mysql database to store the data. We create different type of mapping.
